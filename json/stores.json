@@ -98,5 +98,25 @@
       "owner_id": "1919292",
       "name": "Jorny"
     }
+  },
+  {
+    "id": "6",
+    "name": "Make angels fabric",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste necessitatibus eum, libero tempora consequuntur explicabo saepe aut sapiente iusto ipsum.",
+    "image": "https://images.unsplash.com/photo-1571840027770-a3082534c4ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "likes": 403,
+    "stars": 0,
+    "category": "Unisex",
+    "location": {
+      "state": "Lagos",
+      "lga": "Surulere",
+      "address": "215 Terry Lane, New York",
+      "lat": -33.923323,
+      "lag": 151.157219
+    },
+    "owner": {
+      "owner_id": "1919292",
+      "name": "Jorny"
+    }
   }
 ]
